@@ -1,0 +1,7 @@
+build
+allure-results
+.idea
+.gradle
+out
+gradle
+settings.gradle
